@@ -4,19 +4,19 @@
     "url": "https://cyberjutsu.io",
     "icon": "https://icons.duckduckgo.com/ip3/cyberjutsu.io.ico",
     "slug": "cyber-jutsu",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 313,
-    "timeDay": 285,
-    "timeWeek": 313,
-    "timeMonth": 313,
-    "timeYear": 313,
+    "status": "up",
+    "uptime": "99.80%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
+    "time": 310,
+    "timeDay": 283,
+    "timeWeek": 310,
+    "timeMonth": 310,
+    "timeYear": 310,
     "dailyMinutesDown": {
-      "2024-01-06": 2
+      "2024-01-06": 10
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://blog.cyberjutsu.io",
     "icon": "https://icons.duckduckgo.com/ip3/blog.cyberjutsu.io.ico",
     "slug": "blog",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 920,
-    "timeDay": 1001,
-    "timeWeek": 920,
-    "timeMonth": 920,
-    "timeYear": 920,
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
+    "time": 933,
+    "timeDay": 1024,
+    "timeWeek": 933,
+    "timeMonth": 933,
+    "timeYear": 933,
     "dailyMinutesDown": {
-      "2024-01-06": 1
+      "2024-01-06": 10
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://learn.cyberjutsu.io",
     "icon": "https://icons.duckduckgo.com/ip3/learn.cyberjutsu.io.ico",
     "slug": "learn",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 666,
-    "timeDay": 618,
-    "timeWeek": 666,
-    "timeMonth": 666,
-    "timeYear": 666,
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 654,
+    "timeDay": 588,
+    "timeWeek": 654,
+    "timeMonth": 654,
+    "timeYear": 654,
     "dailyMinutesDown": {
-      "2024-01-06": 1
+      "2024-01-06": 9
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://jobs.cyberjutsu.io",
     "icon": "https://icons.duckduckgo.com/ip3/jobs.cyberjutsu.io.ico",
     "slug": "job",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 994,
-    "timeDay": 1115,
-    "timeWeek": 994,
-    "timeMonth": 994,
-    "timeYear": 994,
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 997,
+    "timeDay": 1086,
+    "timeWeek": 997,
+    "timeMonth": 997,
+    "timeYear": 997,
     "dailyMinutesDown": {
-      "2024-01-06": 0
+      "2024-01-06": 9
     }
   }
 ]
