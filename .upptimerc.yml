@@ -11,6 +11,64 @@ sites:
     url: https://learn.cyberjutsu.io
   - name: Job
     url: https://jobs.cyberjutsu.io
+  - name: Untrusted Data
+    url: https://ninja-academy.cyberjutsu-lab.tech
+  - name: File upload 1
+    url: http://fileupload.cyberjutsu-lab.tech:12001
+  - name: File upload 2
+    url: http://fileupload.cyberjutsu-lab.tech:12002
+  - name: File upload 3
+    url: http://fileupload.cyberjutsu-lab.tech:12003
+  - name: File upload 4
+    url: http://fileupload.cyberjutsu-lab.tech:12004
+  - name: File upload 5
+    url: http://fileupload.cyberjutsu-lab.tech:12005
+  - name: File upload 6
+    url: http://fileupload.cyberjutsu-lab.tech:12006
+  - name: Path Traversal 1
+    url: http://pathtraversal.cyberjutsu-lab.tech:8091
+  - name: Path Traversal 2
+    url: http://pathtraversal.cyberjutsu-lab.tech:8092
+  - name: Path Traversal 3
+    url: http://pathtraversal.cyberjutsu-lab.tech:8093
+  - name: Path Traversal 4
+    url: http://pathtraversal.cyberjutsu-lab.tech:8094
+  - name: Path Traversal 5
+    url: http://pathtraversal.cyberjutsu-lab.tech:8095
+  - name: Path Traversal 6  
+    url: http://pathtraversal.cyberjutsu-lab.tech:8096
+  - name: Symlink Readfile / RCE
+    url: http://symlink.cyberjutsu-lab.tech:9091
+  - name: Command Injection 1
+    url: http://cmdi.cyberjutsu-lab.tech:3001
+  - name: Command Injection 2
+    url: http://cmdi.cyberjutsu-lab.tech:3002
+  - name: Command Injection 3
+    url: http://cmdi.cyberjutsu-lab.tech:3003
+  - name: Command Injection 4
+    url: http://cmdi.cyberjutsu-lab.tech:3004
+  - name: Command Injection 5
+    url: http://cmdi.cyberjutsu-lab.tech:3005
+  - name: Command Injection 6 
+    url: http://cmdi.cyberjutsu-lab.tech:3006
+  - name: Command Injection 7
+    url: http://cmdi.cyberjutsu-lab.tech:3007
+  - name: HTML Injection 1
+    url: https://note1.cyberjutsu-lab.tech
+  - name: HTML Injection 2
+    url: https://note2.cyberjutsu-lab.tech
+  - name: HTML Injection 3  
+    url: https://note3.cyberjutsu-lab.tech
+  - name: HTML Injection 4
+    url: https://note4.cyberjutsu-lab.tech
+  - name: HTML Injection 5
+    url: https://note5.cyberjutsu-lab.tech
+  - name: HTML Injection 6
+    url: https://note6.cyberjutsu-lab.tech
+  - name: SQL Injection 1-8
+    url: http://sqli.cyberjutsu-lab.tech:24001
+  - name: PHP Deserialization 1-4
+    url: http://game-pokemon.cyberjutsu-lab.tech:15001
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
