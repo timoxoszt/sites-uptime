@@ -4,18 +4,20 @@
     "url": "https://cyberjutsu.io",
     "icon": "https://icons.duckduckgo.com/ip3/cyberjutsu.io.ico",
     "slug": "cyber-jutsu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 288,
-    "timeDay": 329,
-    "timeWeek": 275,
-    "timeMonth": 288,
-    "timeYear": 288,
-    "dailyMinutesDown": {}
+    "time": 374,
+    "timeDay": 1345,
+    "timeWeek": 506,
+    "timeMonth": 374,
+    "timeYear": 374,
+    "dailyMinutesDown": {
+      "2024-01-17": 0
+    }
   },
   {
     "name": "Blog",
