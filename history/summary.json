@@ -562,9 +562,9 @@
     "url": "http://sqli.cyberjutsu-lab.tech:24001",
     "icon": "https://icons.duckduckgo.com/ip3/sqli.cyberjutsu-lab.tech.ico",
     "slug": "sql-injection-1-8",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -573,7 +573,9 @@
     "timeWeek": 588,
     "timeMonth": 576,
     "timeYear": 576,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-25": 0
+    }
   },
   {
     "name": "PHP Deserialization 1-4",
