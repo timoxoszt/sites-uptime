@@ -454,9 +454,9 @@
     "url": "https://note1.cyberjutsu-lab.tech",
     "icon": "https://icons.duckduckgo.com/ip3/note1.cyberjutsu-lab.tech.ico",
     "slug": "html-injection-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -465,16 +465,18 @@
     "timeWeek": 724,
     "timeMonth": 719,
     "timeYear": 719,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-26": 1
+    }
   },
   {
     "name": "HTML Injection 2",
     "url": "https://note2.cyberjutsu-lab.tech",
     "icon": "https://icons.duckduckgo.com/ip3/note2.cyberjutsu-lab.tech.ico",
     "slug": "html-injection-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -483,16 +485,18 @@
     "timeWeek": 723,
     "timeMonth": 717,
     "timeYear": 717,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-26": 0
+    }
   },
   {
     "name": "HTML Injection 3",
     "url": "https://note3.cyberjutsu-lab.tech",
     "icon": "https://icons.duckduckgo.com/ip3/note3.cyberjutsu-lab.tech.ico",
     "slug": "html-injection-3",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -501,16 +505,18 @@
     "timeWeek": 725,
     "timeMonth": 719,
     "timeYear": 719,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-26": 0
+    }
   },
   {
     "name": "HTML Injection 4",
     "url": "https://note4.cyberjutsu-lab.tech",
     "icon": "https://icons.duckduckgo.com/ip3/note4.cyberjutsu-lab.tech.ico",
     "slug": "html-injection-4",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -519,16 +525,18 @@
     "timeWeek": 820,
     "timeMonth": 758,
     "timeYear": 758,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-26": 0
+    }
   },
   {
     "name": "HTML Injection 5",
     "url": "https://note5.cyberjutsu-lab.tech",
     "icon": "https://icons.duckduckgo.com/ip3/note5.cyberjutsu-lab.tech.ico",
     "slug": "html-injection-5",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -537,16 +545,18 @@
     "timeWeek": 951,
     "timeMonth": 951,
     "timeYear": 951,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-26": 0
+    }
   },
   {
     "name": "HTML Injection 6",
     "url": "https://note6.cyberjutsu-lab.tech",
     "icon": "https://icons.duckduckgo.com/ip3/note6.cyberjutsu-lab.tech.ico",
     "slug": "html-injection-6",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -555,7 +565,9 @@
     "timeWeek": 717,
     "timeMonth": 714,
     "timeYear": 714,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-26": 0
+    }
   },
   {
     "name": "SQL Injection 1-8",
@@ -563,18 +575,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sqli.cyberjutsu-lab.tech.ico",
     "slug": "sql-injection-1-8",
     "status": "down",
-    "uptime": "94.62%",
-    "uptimeDay": "20.11%",
-    "uptimeWeek": "88.59%",
-    "uptimeMonth": "94.62%",
-    "uptimeYear": "94.62%",
+    "uptime": "94.01%",
+    "uptimeDay": "10.44%",
+    "uptimeWeek": "87.21%",
+    "uptimeMonth": "94.01%",
+    "uptimeYear": "94.01%",
     "time": 576,
     "timeDay": 0,
     "timeWeek": 584,
     "timeMonth": 576,
     "timeYear": 576,
     "dailyMinutesDown": {
-      "2024-01-26": 42,
+      "2024-01-26": 181,
       "2024-01-25": 1109
     }
   },
